@@ -1,4 +1,4 @@
-from gitignore.connection import conn
+from connection import conn
 from classes.CRUD_zoo import CRUD_zoo
 
 conn=conn()
